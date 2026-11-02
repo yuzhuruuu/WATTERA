@@ -1,0 +1,6 @@
+{
+  "name": "Wattera - AI Energy Copilot",
+  "description": "AI Energy Copilot untuk pemilik laundry kiloan di Semarang: hemat listrik berbasis data kg cucian dan kebiasaan alat.",
+  "requestFramePermissions": ["CAMERA", "MICROPHONE"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
